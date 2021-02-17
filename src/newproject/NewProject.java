@@ -14,7 +14,7 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 public class NewProject extends Application {
-//blabla
+//blablabla
 
     @Override
     public void start(Stage primaryStage) {
